@@ -1,0 +1,5 @@
+TensorBoard:
+>>> https://www.youtube.com/watch?v=eBbEDRsCmv4
+
+Git:
+>>> https://www.liaoxuefeng.com/wiki/896043488029600
